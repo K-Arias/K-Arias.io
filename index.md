@@ -16,7 +16,7 @@ My GitHub page is http://github.com/K-Arias.
     has to respond appropriately. In part 1, I learned of using multiple
     files to compile, which was very cool and new to me, the main file 
     had the functions being called and the second file had the definitions
-    of these functions. These functions were made toprocess ML to other
+    of these functions. These functions were made to process ML to other
     units, very cool.
 
 * Lab 6
